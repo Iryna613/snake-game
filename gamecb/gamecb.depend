@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644687703 source:d:\ira\games\gamecb\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<bits/stdc++.h>
+
